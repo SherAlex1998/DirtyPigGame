@@ -22,6 +22,8 @@ Simple Unity game about Pig / Простая игра Unity про поросё�
 
 Устанавливайте бомбу по нажатию на красную кнопку.
 
+========================================================================================
+
 **Technologies used:**
 
 * Unity 2020.3.18
@@ -29,7 +31,7 @@ Simple Unity game about Pig / Простая игра Unity про поросё�
 
 **Description:**
 
-The project was written as a test task for the vacancy [Stimboy LLC](http://hh.ru/employer/4453741 "Link to hh.ru").
+The project was written as a test task for the vacancy [7tam LLC](http://hh.ru/employer/4453741 "Link to hh.ru").
 
 **The meaning of the game:**
 
